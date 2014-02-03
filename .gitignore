@@ -1,0 +1,6 @@
+.gitignore:
+src/CustomNavigationController.userprefs
+src/CustomNavigationController/bin
+samples/iOS/Sample.iOS/bin
+samples/iOS/Sample.iOS/obj
+
